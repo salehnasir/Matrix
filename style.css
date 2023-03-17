@@ -1,0 +1,30 @@
+.title{
+    text-align: center;
+    background-color: blue;
+    color: antiquewhite;
+}
+.input {
+    width: 3em;
+    height: 3em;
+   text-align: center;
+   text-decoration: none;
+
+
+}
+.plus{
+    width: 3em;
+    height: 3em;
+}
+.equal{
+    width: 3em;
+    height: 3em;
+}
+.main{
+    text-decoration: none;
+    text-align: center;
+}
+.button{
+   
+    width: 12em;
+    height: 3em;
+}
